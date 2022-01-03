@@ -7,3 +7,4 @@ git commit -m
 git init
 git clone url
 git remote
+git remote -v
