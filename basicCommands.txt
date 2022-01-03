@@ -1,0 +1,3 @@
+Hey lets learn git commands, but the basic ones.
+
+git status
