@@ -9,3 +9,4 @@ git clone url
 git remote
 git remote -v
 Yes, letsdoit
+Ya, letsdo
