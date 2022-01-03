@@ -10,3 +10,4 @@ git remote
 git remote -v
 Yes, letsdoit
 Ya, letsdo
+Ya, cool buddy
