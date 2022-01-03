@@ -2,3 +2,5 @@ Hey lets learn git commands, but the basic ones.
 
 git status
 git add
+git commit
+git commit -m
